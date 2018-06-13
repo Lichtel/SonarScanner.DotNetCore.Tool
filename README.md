@@ -1,2 +1,1 @@
-# SonarScanner.MSBuild.DotNetCore.Tools
-Tool package for the .NET Core version of the MSBuild SonarCube Scanner
+This is a package for installing the .NET Core 2.0 version of the [SonarQube Scanner](https://github.com/SonarSource-VisualStudio/sonar-scanner-msbuild).
