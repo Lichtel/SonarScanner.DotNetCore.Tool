@@ -28,8 +28,8 @@ var isMasterBranch = System.String.Equals("master", branchName, System.StringCom
 // Version
 ///////////////////////////////////////////////////////////////////////////////
 
-var version = "4.3.0";
-var toolVersion = "4.3.0.1333";
+var version = "4.3.1";
+var toolVersion = "4.3.1.1372";
 var semVersion = local ? version : (version + string.Concat("+", buildNumber));
 
 ///////////////////////////////////////////////////////////////////////////////
